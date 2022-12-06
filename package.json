@@ -11,7 +11,7 @@
   "dependencies": {
     "commander": "^2.20.0",
     "ejs": "^2.6.1",
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "node-static": "^0.7.11",
     "serve-static": "^1.14.1"
   }
